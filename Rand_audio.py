@@ -5,7 +5,7 @@ from playsound import playsound  # You may need to install this module
 # Install playsound using: pip install playsound
 
 # Set the folder paths
-folder1 = 'C:\\Users\\amrut\\OneDrive\\Dektop\\internship\\dlq'
+folder1 = 'C:\\Users\\amrut\\OneDrive\\Desktop\\internship\\dlq'
 folder2 = 'C:\\Users\\amrut\\OneDrive\\Desktop\\internship\\mlq'
 folder3 = 'C:\\Users\\amrut\\OneDrive\\Desktop\\internship\\statq'
 
